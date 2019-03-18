@@ -1,4 +1,4 @@
 {
-  "templatePath": "./build-tools/template/typescript",
+  "templatePath": "./build-tools/template",
   "destination": "./src/component"
 }
